@@ -45,5 +45,10 @@ No modules.
 
 ## Outputs
 
-No outputs.
+| Name | Description |
+|------|-------------|
+| <a name="output_bucket_backend_name"></a> [bucket\_backend\_name](#output\_bucket\_backend\_name) | n/a |
+| <a name="output_domain_name"></a> [domain\_name](#output\_domain\_name) | n/a |
+| <a name="output_project_name"></a> [project\_name](#output\_project\_name) | n/a |
+| <a name="output_project_purpose"></a> [project\_purpose](#output\_project\_purpose) | n/a |
 <!-- END_TF_DOCS -->
