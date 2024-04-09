@@ -37,11 +37,12 @@ No modules.
 
 | Name | Description | Type | Default | Required |
 |------|-------------|------|---------|:--------:|
-| <a name="input_bucket_backend_name"></a> [bucket\_backend\_name](#input\_bucket\_backend\_name) | n/a | `string` | `"ntconsult-terraform-state-backend"` | no |
-| <a name="input_do_token"></a> [do\_token](#input\_do\_token) | n/a | `string` | n/a | yes |
-| <a name="input_project_description"></a> [project\_description](#input\_project\_description) | n/a | `string` | `"This project organizes the resources created by the foundation IaC."` | no |
-| <a name="input_project_name"></a> [project\_name](#input\_project\_name) | n/a | `string` | `"Foundation"` | no |
-| <a name="input_project_purpose"></a> [project\_purpose](#input\_project\_purpose) | n/a | `string` | `"Service or API"` | no |
+| <a name="input_bucket_backend_name"></a> [bucket\_backend\_name](#input\_bucket\_backend\_name) | Bucket na AWS S3 para armazenamento do tfstate | `string` | `"ntconsult-terraform-state-backend"` | no |
+| <a name="input_do_token"></a> [do\_token](#input\_do\_token) | Insira aqui ou crie um tfvars 'gitignorado' para esse valor | `string` | `""` | no |
+| <a name="input_project_description"></a> [project\_description](#input\_project\_description) | n/a | `string` | `"Esse projeto agrupa os recursos criados pela IaC Foundation."` | no |
+| <a name="input_project_environment"></a> [project\_environment](#input\_project\_environment) | Tipo de Ambiente que estamos lidando 'dev', 'prd' ... | `string` | `"Production"` | no |
+| <a name="input_project_name"></a> [project\_name](#input\_project\_name) | Nome do projeto dentro da Digital Ocean apenas | `string` | `"API Foundation"` | no |
+| <a name="input_project_purpose"></a> [project\_purpose](#input\_project\_purpose) | Proposta desse projeto | `string` | `"Service or API"` | no |
 
 ## Outputs
 
