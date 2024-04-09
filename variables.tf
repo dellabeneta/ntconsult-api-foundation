@@ -1,8 +1,11 @@
 # VARIÁVEL DO TOKEN
 
 variable "do_token" {
-  type        = string
+  default = ""
+  description = "Insira aqui ou crie um tfvars 'gitignorado' para esse valor"
+  type = string  
 }
+
 
 # VARIÁVEIS DO BUCKET
 
@@ -15,22 +18,18 @@ variable "bucket_backend_name" {
 
 variable "project_name" {
   default = "API Foundation"
+  description = "Nome do projeto dentro da Digital Ocean apenas"
   type = string
 }
 
 variable "project_purpose" {
   default = "Service or API"
+  description = "Proposta desse projeto"
   type = string
 }
 
 variable "project_environment" {
   default = "Production"
+  description = "Tipo de Ambiente que estamos lidando 'dev', 'prd' ..."
   type    = string
 }
-
-variable "project_description" {
-  default = "This project organizes the resources created by the foundation IaC."
-  type = string
-}
-
-
