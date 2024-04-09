@@ -1,14 +1,20 @@
+# VARIÁVEL DO TOKEN
+
 variable "do_token" {
   type        = string
 }
+
+# VARIÁVEIS DO BUCKET
 
 variable "bucket_backend_name" {
   default = "ntconsult-terraform-state-backend"
   type = string
 }
 
+# VARIÁVEIS DO PROJECT
+
 variable "project_name" {
-  default = "Foundation"
+  default = "API BASE"
   type = string
 }
 
