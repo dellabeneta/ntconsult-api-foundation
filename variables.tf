@@ -23,6 +23,11 @@ variable "project_purpose" {
   type = string
 }
 
+variable "project_environment" {
+  default = "Production"
+  type    = string
+}
+
 variable "project_description" {
   default = "This project organizes the resources created by the foundation IaC."
   type = string
