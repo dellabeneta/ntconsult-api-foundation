@@ -14,7 +14,7 @@ variable "bucket_backend_name" {
 # VARIÁVEIS DO PROJECT
 
 variable "project_name" {
-  default = "API BASE"
+  default = "Foundation"
   type = string
 }
 
