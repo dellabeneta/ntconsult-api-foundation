@@ -1,3 +1,3 @@
 resource "aws_s3_bucket" "bucket" {
-  bucket = "ntconsult-terraform-state"
+  bucket = var.bucket_backend_name
 }

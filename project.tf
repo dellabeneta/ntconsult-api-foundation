@@ -1,7 +1,6 @@
 resource "digitalocean_project" "project" {
-  name        = "Foundation"
-  description = "Um projeto organizando os recursos da fundação."
-  purpose     = "Foundation"
-  environment = "Production"
+  name        = var.project_name 
+  description = var.project_description
+  purpose     = var.project_purpose
   resources   = [digitalocean_domain.domain.urn]
 }
