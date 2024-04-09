@@ -37,7 +37,11 @@ No modules.
 
 | Name | Description | Type | Default | Required |
 |------|-------------|------|---------|:--------:|
-| <a name="input_do_token"></a> [do\_token](#input\_do\_token) | Token de acesso 'foundation' | `string` | n/a | yes |
+| <a name="input_bucket_backend_name"></a> [bucket\_backend\_name](#input\_bucket\_backend\_name) | n/a | `string` | `"ntconsult-terraform-state-backend"` | no |
+| <a name="input_do_token"></a> [do\_token](#input\_do\_token) | n/a | `string` | n/a | yes |
+| <a name="input_project_description"></a> [project\_description](#input\_project\_description) | n/a | `string` | `"This project organizes the resources created by the foundation IaC."` | no |
+| <a name="input_project_name"></a> [project\_name](#input\_project\_name) | n/a | `string` | `"Foundation"` | no |
+| <a name="input_project_purpose"></a> [project\_purpose](#input\_project\_purpose) | n/a | `string` | `"Service or API"` | no |
 
 ## Outputs
 
