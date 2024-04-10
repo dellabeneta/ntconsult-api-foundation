@@ -7,7 +7,7 @@ Repositório de fundação do projeto API REST. Ele se propõe a criar todas as 
 
 
 <br>
-<img src="https://drive.google.com/uc?export=view&id=153GRKj1TypkTfZ5FmZICYiztg85fjnmJ" width="1000">
+<img src="https://drive.google.com/uc?export=view&id=113lMlqyWj7Gm9iR9sHgEmOF-pfVgpihHG" width="1000">
 <br>
 
 
