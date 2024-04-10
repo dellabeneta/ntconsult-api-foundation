@@ -5,6 +5,12 @@
 
 Repositório de fundação do projeto API REST. Ele se propõe a criar todas as estruturas básicas/fundamentais que serão necessárias para o provisionamento do projeto principal. Localizado neste repositório: https://github.com/dellabeneta/ntconsult-iac-api. 
 
+
+<br>
+<img src="https://drive.google.com/uc?export=view&id=153GRKj1TypkTfZ5FmZICYiztg85fjnmJ" width="1000">
+<br>
+
+
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
 
