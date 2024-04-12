@@ -61,8 +61,6 @@ No modules.
 
 ## Estrutura de diretórios e arquivos:
 
-Observe aqui a estrutura de diretórios e arquivos do projeto:
-
     della@desklin:~/projetos$ tree ntconsult-iac-api-foundation/
     ntconsult-iac-api-foundation/
     ├── bucket.tf
