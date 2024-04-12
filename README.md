@@ -60,7 +60,7 @@ No modules.
 <!-- END_TF_DOCS -->
 
 
-### Observe aqui a estrtura de diretório do projeto (sem os aquivos .terraforms e demais dependências exclusivas/locais):
+#### Observe aqui a estrtura de diretório do projeto (sem os aquivos .terraforms e demais dependências exclusivas/locais):
 
     della@desklin:~/projetos$ tree ntconsult-iac-api-foundation/
     ntconsult-iac-api-foundation/
