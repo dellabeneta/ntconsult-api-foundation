@@ -59,6 +59,7 @@ No modules.
 | <a name="output_project_purpose"></a> [project\_purpose](#output\_project\_purpose) | n/a |
 <!-- END_TF_DOCS -->
 
+## Estrutura de diretórios e arquivos:
 
 Observe aqui a estrutura de diretórios e arquivos do projeto:
 
