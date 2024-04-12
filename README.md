@@ -58,3 +58,26 @@ No modules.
 | <a name="output_project_name"></a> [project\_name](#output\_project\_name) | n/a |
 | <a name="output_project_purpose"></a> [project\_purpose](#output\_project\_purpose) | n/a |
 <!-- END_TF_DOCS -->
+
+<br>
+## Observe aqui a estrtura de diretório do projeto (sem os aquivos .terraforms e demais dependências exclusivas/locais):
+<br>
+
+    della@desklin:~/projetos$ tree ntconsult-iac-api-foundation/
+    ntconsult-iac-api-foundation/
+    ├── bucket.tf
+    ├── certificate.tf
+    ├── diagrams
+    │   ├── doks-foundation.drawio
+    │   └── doks-foundation.drawio.png
+    ├── domain.tf
+    ├── LICENSE
+    ├── outputs.tf
+    ├── project.tf
+    ├── provider.tf
+    ├── README.md
+    ├── terraform.tfvars
+    └── variables.tf
+    
+    2 directories, 12 files
+<br>
