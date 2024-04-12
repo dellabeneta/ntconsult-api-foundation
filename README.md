@@ -60,7 +60,7 @@ No modules.
 <!-- END_TF_DOCS -->
 
 
-Observe aqui a estrtura de diretórios e arquivos do projeto:
+Observe aqui a estrutura de diretórios e arquivos do projeto:
 
     della@desklin:~/projetos$ tree ntconsult-iac-api-foundation/
     ntconsult-iac-api-foundation/
