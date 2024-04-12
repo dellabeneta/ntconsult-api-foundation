@@ -59,9 +59,8 @@ No modules.
 | <a name="output_project_purpose"></a> [project\_purpose](#output\_project\_purpose) | n/a |
 <!-- END_TF_DOCS -->
 
-<br>
+
 ## Observe aqui a estrtura de diretório do projeto (sem os aquivos .terraforms e demais dependências exclusivas/locais):
-<br>
 
     della@desklin:~/projetos$ tree ntconsult-iac-api-foundation/
     ntconsult-iac-api-foundation/
