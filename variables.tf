@@ -10,7 +10,7 @@ variable "do_token" {
 # VARIÁVEIS DO BUCKET
 
 variable "bucket_backend_name" {
-  default = "ntconsult-terraform-state-backend"
+  default = "ntconsult-terraform-state-backend-v2"
   description = "Bucket na AWS S3 para armazenamento do tfstate"
   type = string
 }
