@@ -12,13 +12,10 @@ terraform {
 }
 
 provider "aws" {
-  region  = "sa-east-1"
-  //profile = "default"
+  region  = "sa-east-1"  
 }
 
-provider "digitalocean" {
-  token = DIGITAL_OCEAN_TOKEN
-}
+provider "digitalocean" {}
 
 
 
