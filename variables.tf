@@ -2,7 +2,7 @@
 
 variable "do_token" {
   default = ""
-  description = "Insira aqui ou crie um tfvars 'gitignorado' para esse valor"
+  description = "Insira aqui seu secret ou crie um tfvars 'gitignorado' para esse valor"
   type = string  
 }
 
