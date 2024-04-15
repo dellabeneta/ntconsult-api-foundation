@@ -1,10 +1,10 @@
 # VARIÁVEL DO TOKEN
 
-variable "do_token" {
-  default = "$DO_TOKEN"
-  description = "Insira aqui seu secret ou crie um tfvars 'gitignorado' para esse valor"
-  type = string  
-}
+# variable "do_token" {
+#   default = "$DO_TOKEN"
+#   description = "Insira aqui seu secret ou crie um tfvars 'gitignorado' para esse valor"
+#   type = string  
+# }
 
 
 # VARIÁVEIS DO BUCKET
