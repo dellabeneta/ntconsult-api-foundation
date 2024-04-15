@@ -17,7 +17,7 @@ provider "aws" {
 }
 
 provider "digitalocean" {
-  //token = var.do_token
+  token = DIGITAL_OCEAN_TOKEN
 }
 
 
