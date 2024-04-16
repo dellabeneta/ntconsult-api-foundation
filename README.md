@@ -1,5 +1,7 @@
 [![Deploy Terraform Foundation](https://github.com/dellabeneta/ntconsult-iac-api-foundation/actions/workflows/main.yaml/badge.svg)](https://github.com/dellabeneta/ntconsult-iac-api-foundation/actions/workflows/main.yaml)
 
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=c231bd46146c&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 # API REST - Foundation IaC
 <br>
 <img src="https://drive.google.com/uc?export=view&id=1spIcWkUkR1Ws0HZCPW1dn5fxL87BSCEp" width="1000">
