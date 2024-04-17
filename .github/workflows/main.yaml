@@ -1,4 +1,4 @@
-name: Deploy Terraform Foundation
+name: Terraform Deploy (Foundation IaC)
 
 on:
   push:
